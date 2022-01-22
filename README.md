@@ -4,8 +4,8 @@ retail analytics with python
 
 **NORTH STAR METRICS** : aptures yours companies core value that your product offers.
   This metric depends on your company’s product, position, targets & more. Airbnb’s North Star        Metric is nights booked whereas for Facebook, it is daily active users.
-  I have used online retail data from a company operating in  eastern india .
-   Reporting: 
+  I have used online retail data from a company operating in  eastern india . <br>
+   Reporting: <br>
     1. Monthly Revenue  <br>
     2. Monthly Revenue Growth Rate  <br>
     3. Monthly Revenue Growth Rate   <br>
